@@ -159,6 +159,12 @@ button.white {
 
 }
 
+.auto-type{
+    font-size: 25px;
+    color: purple;
+    font-weight: 600;
+}
+
 #hero button {
     background-image: url(images/button.png);
     background-color: transparent;
